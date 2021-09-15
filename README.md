@@ -1,16 +1,21 @@
-# WINRDP
-How to use 
+# VpsFree
+Cách Sử dụng 
+Chỉ cần Fork Kho lưu trữ này, Đi tới tab Actions, Chọn dòng công việc Windows-CRD. Sau đó chọn Chạy Dòng công việc điền dữ liệu sau vào Mã CRD và Ghim của bạn vào các trường. Sau đó, nhấn Bắt đầu.
 
-Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
+Nhập mã sau vào các trường.
 
-Input the following code in the fields.
-
-Get the Windows (Powershell) command from here:
+Lấy lệnh Windows (PowerShell) từ đây:
 
 https://remotedesktop.google.com/headless
 
-Enter you Six digit Pin code to Login
+Nhập mã PIN sáu chữ số để đăng nhập
 
-(Any Six digit Pin)
+(Bất kỳ pin sáu chữ số)
 
-Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.
+Quá trình khởi tạo ... Sau 2-3 phút, Kiểm tra Ứng dụng hoặc Tài khoản CRD của bạn.
+
+bạn có thể vào thẳng link để vào vps: https://remotedesktop.google.com/headless
+
+hoặc có thể tải ở link: https://play.google.com/store/apps/details?id=com.google.chromeremotedesktop&hl=vi&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dchrome+remote+desktop+apk&pcampaignid=APPU_1_eDlBYc6zL9PZrQHutJtY
+
+like và đăng ký kênh cho MrCat Nha❤
